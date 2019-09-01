@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\WaterMark\WaterMark\bin\Debug\WaterMark.exe.config
+C:\Users\User\source\repos\WaterMark\WaterMark\bin\Debug\WaterMark.exe
+C:\Users\User\source\repos\WaterMark\WaterMark\bin\Debug\WaterMark.pdb
+C:\Users\User\source\repos\WaterMark\WaterMark\obj\Debug\WaterMark.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WaterMark\WaterMark\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\WaterMark\WaterMark\obj\Debug\App.g.cs
+C:\Users\User\source\repos\WaterMark\WaterMark\obj\Debug\WaterMark_MarkupCompile.cache
+C:\Users\User\source\repos\WaterMark\WaterMark\obj\Debug\WaterMark_MarkupCompile.lref
+C:\Users\User\source\repos\WaterMark\WaterMark\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\WaterMark\WaterMark\obj\Debug\WaterMark.g.resources
+C:\Users\User\source\repos\WaterMark\WaterMark\obj\Debug\WaterMark.Properties.Resources.resources
+C:\Users\User\source\repos\WaterMark\WaterMark\obj\Debug\WaterMark.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WaterMark\WaterMark\obj\Debug\WaterMark.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WaterMark\WaterMark\obj\Debug\WaterMark.exe
+C:\Users\User\source\repos\WaterMark\WaterMark\obj\Debug\WaterMark.pdb
