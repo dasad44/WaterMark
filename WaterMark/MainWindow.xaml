@@ -10,6 +10,8 @@
         <SolidColorBrush Opacity="0.5"/>
     </Window.Background>
     <Grid>
-       
+        <TextBox BorderBrush="Transparent" Background="Transparent" HorizontalAlignment="Left" Height="38" Margin="79,44,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="126"/>
+        <TextBox BorderBrush="Transparent" Background="Transparent"  HorizontalAlignment="Left" Height="29" Margin="236,53,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="123"/>
+
     </Grid>
 </Window>
