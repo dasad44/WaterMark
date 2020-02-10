@@ -1,1 +1,1 @@
-# WaterMark
+# Simple watermark in C#
